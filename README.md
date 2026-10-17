@@ -2,7 +2,7 @@
 
 Official Android app for [TM Pirates](https://tmpirates.com): fast game diamond and gift card top-ups, order status alerts and one-tap Google login.
 
-**[⬇ Download the latest APK](../../releases/latest)** · **[Install guide](https://tmpirates.com/app)** · **[Visit the website](https://tmpirates.com)**
+**[⬇ Download the latest APK](https://github.com/Jobaer500/TM-pirates-android-app/releases/latest)** · **[Install guide](https://tmpirates.com/app)** · **[Visit the website](https://tmpirates.com)**
 
 ## Features
 
@@ -18,7 +18,7 @@ Official Android app for [TM Pirates](https://tmpirates.com): fast game diamond 
 
 ## How to install
 
-1. Open the [latest release](../../releases/latest) in **Chrome** on your Android phone and tap the `.apk` file under **Assets**.
+1. Open the [latest release](https://github.com/Jobaer500/TM-pirates-android-app/releases/latest) in **Chrome** on your Android phone and tap the `.apk` file under **Assets**.
 2. If Chrome warns about the file type, tap **Download anyway**.
 3. Open the downloaded file. If asked, turn on **Allow from this source** for Chrome.
 4. If Play Protect shows a warning, tap **More details → Install anyway**.
